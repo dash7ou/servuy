@@ -1,0 +1,102 @@
+*{
+    font-family: 'Raleway', Helvetica, sans-serif;
+}
+body{
+    background-color:#FFF;
+}
+#title{
+    text-align:center;
+    color:;
+}
+
+.main{
+    border:1px solid #333;
+    width:75%;
+    margin:0 auto;
+    border-radius: 4px;
+    background-color:#eee;
+}
+#description{
+    text-align:center;
+    padding:10px;
+    color:#333;
+    font-size:30px;
+}
+.rowtab{
+    text-align:center;
+    display:block;
+}
+
+.input-filed{
+    width:280px;
+    height:20px;
+    padding:5px;
+    margin:10px;
+    border:1px solid #c0c0c0;
+    border-radius: 2px;
+}
+.labels{
+    display:inline-block;
+    text-align:right;
+    padding:5px;
+    margin-top:10px;
+    vertical-align: top;
+    width:40%;
+}
+.right-input{
+    width:48%;
+    display:inline-block;
+    text-align:left;
+    vertical-align: middle;
+}
+.dropdown{
+    height:35px;
+    width:140px;
+    padding:5px;
+    margin:10px;
+    margin-top:15px;
+    border:1px solid #c0c0c0;
+    border-radius:2px;
+}
+.radio{
+    position:relative;
+    left:-43px;
+    display:block;
+    margin-left:10px;
+    padding-bottom:10px;
+}
+.userRatings{
+    float:left;
+    margin-right:5px;
+}
+
+.checkbox{
+    position: relative;
+    left: -43px;
+    margin-left: 10px;
+    display: block;
+    padding-bottom: 10px;
+}
+
+#comments{
+    height:50px;
+}
+
+#submit{
+    color:#eee;
+    background-color:#333;
+    border-radius:4px;
+    height:50px;
+    width:100px;
+    border:0px solid;
+    margin:10px;
+    position:relative;
+    left:500px;
+}
+
+.end{
+    color:red;
+    text-align:center;
+    margin:20px;
+    margin-top:40px;
+}
